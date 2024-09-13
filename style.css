@@ -32,12 +32,13 @@ height: 26px;
 width:150px;
 background-color: rgb(17,27,71);
 color:#FFFF;
-border-radius: 6px;
+border-radius: 4px;
 opacity: 0px;
+gap:10px;
 }
 .hero-content{
 color:rgb(17,27,71);
-background-color: rgb(242,245,255);
+/* background-color: rgb(242,245,255); */
 justify-content: center;
 padding: 20px;
 align-self: center;
@@ -61,12 +62,14 @@ margin: 20 auto;
 }
 .hero-btn{
     display: flex;
+    gap:10px;
 }
 .btn1{
     height: 26px;
     width:150px;
     color: rgb(17,27,71);
     background-color:#FFFF;
-    border-radius: 6px;
+    border-radius: 4px;
     opacity: 0px;
+    gap:10px;
 }
